@@ -1,10 +1,12 @@
-vendorIdentifier:"TOWER_ADA"
+**Description**
 
-itemCategoryHashes:[] 2 items
-0:59 // <ItemCategory "Mods">
-1:4104513227 // <ItemCategory "Armor Mods">
+Source code for a Discord Bot that allows users to subscribe to a service that will remind them to buy the missing combat style mods when they're available.
 
-itemType:19 // enum DestinyItemType "Mod"
+**How to use it**
+
+Wait for the bot to be finished, why don't you.
+
+**Useful Information**
 
 Ada-1 > categories > 8 [List of all available combat mods]
 
